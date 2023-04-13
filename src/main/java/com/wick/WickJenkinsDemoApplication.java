@@ -14,7 +14,7 @@ public class WickJenkinsDemoApplication implements CommandLineRunner {
 
 	@Override
 	public void run(String... args) throws Exception {
-		Logger.info("second log");
+		Logger.info("ApplicationLogger2 log");
 		
 	}
 
